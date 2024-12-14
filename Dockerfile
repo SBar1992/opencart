@@ -1,4 +1,4 @@
-FROM php:8.2.11-apache
+FROM php:8.4.2RC1-apache
 
 ARG DOWNLOAD_URL
 ARG FOLDER
